@@ -6,9 +6,11 @@
 
 **大模型后训练 / 强化学习 / 企业 Agent**
 
-深圳 · CET 算法工程师 · 负责 AILab 核心强化学习方向
+中国电子（CEC）旗下 CET · 算法工程师 · 负责 AILab 核心强化学习方向
 
-[技术文章](https://www.cnblogs.com/Leon-Algo) · [工程作品](#公开作品) · [研究与背景](#研究与背景)
+**Creamit 联合创始人 · 技术核心负责人**
+
+[技术文章](https://www.cnblogs.com/Leon-Algo) · [工程作品](#公开作品) · [专业背书](#专业背书)
 
 </div>
 
@@ -17,6 +19,21 @@
 企业采用 AI，最终要回答的是：**效果能否验证，部署能否自主掌握，成果能否进入日常工作。**
 
 我的工作围绕这些问题展开。自 2024 年加入 CET，主导 **9 个 AI 项目从 0 到 1**，从模型训练推进到业务交付。
+
+## 专业背书
+
+| 研究与知识产权 | 创新实践与认证 |
+| :--- | :--- |
+| **SCI（JCR Q2）第一作者论文** · *Optical Fiber Technology*（2024） | **清北学子发起的 AttraX AI 黑客松 · 赛道一等奖**（团队，2026；我承担后端与算法开发） |
+| **中国发明专利申请 2 项** · 网络路由规划方向，参与发明 | **高级人工智能训练师**（2026） |
+
+<details>
+<summary>论文与专利信息</summary>
+
+- 第一作者论文：*A Multi-Factor Intelligent Biologic Search Algorithm for Closed-Area Fiber Optic Network Planning*，*Optical Fiber Technology*，2024，82：103651。
+- 发明专利申请：网络路由规划方法与系统（CN116827852A）；基于改进蚁群算法的网络路由规划方法与系统（CN117014364A）。
+
+</details>
 
 ## 技术判断，要经得起业务检验
 
@@ -55,14 +72,8 @@
 
 | 作品 | 可以了解的能力 | 入口 |
 | :--- | :--- | :--- |
-| **DesktopPets** | 同一 Swift 核心连接 macOS 与 Windows；从桌面交互到测试、双平台发布的工程实践。 | [源码](https://github.com/Leon-Algo/mac-desktop-pets) · [发布版本](https://github.com/Leon-Algo/mac-desktop-pets/releases) |
 | **MIBSA 算法实验** | 路径规划算法与可视化，展示研究问题的代码实现。 | [代码与实验](https://github.com/Leon-Algo/MIBSAdemo_code) |
-
-## 研究与背景
-
-- **应用统计学硕士** · 华中农业大学，2024 年毕业。
-- **第一作者论文** · 光纤网络规划算法，发表于 *Optical Fiber Technology*（2024）。
-- **AttraX AI 黑客松赛道一等奖** · 2026 年所在团队获奖，我承担后端与算法开发。
+| **DesktopPets** | 同一 Swift 核心连接 macOS 与 Windows；从桌面交互到测试、双平台发布的工程实践。 | [源码](https://github.com/Leon-Algo/mac-desktop-pets) · [发布版本](https://github.com/Leon-Algo/mac-desktop-pets/releases) |
 
 <details>
 <summary>技术栈与工作范围</summary>

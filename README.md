@@ -8,7 +8,7 @@
 
 中国电子（CEC）旗下 CET · 算法工程师 · 负责 AILab 核心强化学习方向
 
-**[CreaMate](https://creamate.ai/zh/docs) 联合创始人 · 技术核心负责人**
+**[BranDeal](https://brandeal.ai/zh/docs)（原 CreaMate）联合创始人 · 技术核心负责人**
 
 [个人主页](https://leon-algo.github.io/lijian-leon/) · [技术文章](https://www.cnblogs.com/Leon-Algo) · [产品与作品](#创业产品与公开作品) · [专业背书](#专业背书)
 
@@ -73,11 +73,11 @@ Text2MQL 端到端强化学习系统：建立「数据合成 → SFT 冷启动 �
 
 ## 创业产品与公开作品
 
-### CreaMate · 让短视频创作者从内容走向商业合作
+### BranDeal · AI Creator Agent，让创作者的商单自动跑起来
 
-我担任 **CreaMate 联合创始人、技术核心负责人**。产品面向 TikTok、Reels、Shorts 创作者，把选题与脚本创作、商单定价建议和面向品牌的创作者主页整合到同一工作台，帮助创作者衔接内容生产与商业合作。
+我担任 **BranDeal（原 CreaMate）联合创始人、技术核心负责人**。产品是面向 TikTok、Instagram、YouTube 创作者的 AI Creator Agent：搭建创作者作品集（Portfolio）、发现与承接品牌商单（Brand Deals）、辅助内容规划，帮助创作者把内容生产与商业合作接成一条流水线。
 
-[了解产品](https://creamate.ai) · [产品文档](https://creamate.ai/zh/docs)
+[了解产品](https://brandeal.ai) · [产品文档](https://brandeal.ai/zh/docs)
 
 企业工作之外，我也把研究与个人工程实践放在 GitHub，供你直接查看实现。
 

@@ -10,7 +10,7 @@
 
 **[BranDeal](https://brandeal.ai/zh/docs)（原 CreaMate）联合创始人 · 技术核心负责人**
 
-[个人主页](https://leon-algo.github.io/lijian-leon/) · [技术文章](https://www.cnblogs.com/Leon-Algo) · [产品与作品](#创业产品与公开作品) · [专业背书](#专业背书)
+[技术文章](https://www.cnblogs.com/Leon-Algo) · [产品与作品](#创业产品与公开作品) · [专业背书](#专业背书)
 
 </div>
 
